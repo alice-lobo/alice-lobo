@@ -1,7 +1,7 @@
 ## Hey, I'm Alice! 👨‍💻     
 
 
- - 👨‍💻 I am currently working at SEASPAC/Prefeitura_De_Marabá_PA, as a Software Analyst 
+ - 👨‍💻 I am currently working at SEASPAC/Prefeitura_De_Marabá_PA, as a System Analyst 
  - 🤓 I'm currently learning a little bit of everything, main JavaScript stack's. 
   - 👯 Looking to collaborate with open source projects, and ERP solutions 
 

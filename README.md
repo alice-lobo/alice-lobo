@@ -12,9 +12,9 @@
 
   
     
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=alice-lobo&theme=radical&hide=prs,issues,contribs&show_icons=true" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact&theme=radical" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice-lobo&layout=compact&theme=radical" />
    
 
    
